@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>python,Machine learning,Deep Learning,Docker,CCNA,Linux<br><br>👯 I’m looking to collaborate on<br>AI projects,Open source,DevOps,Networking<br><br>🤝 I’m looking for help with<br>Advanced Deep Learning,Cloud Infrastructure,Kubernetes<br><br>💬 Ask me about<br>Python,Machine Learning,Deep Learning,Docker,CCNA,Linux<br><br>🎯 Goals<br>Build impactful projects,Contribute to open source,Help others learn
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Taha05Abbasi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tahaabbasi211@gmail.com) 
 
