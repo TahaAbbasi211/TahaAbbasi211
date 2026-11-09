@@ -67,8 +67,8 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**Tag To-Do List**](https://github.com/TahaAbbasi211/tag-to-do-list) | Android to-do app with a timer, multiple themes, and 5 languages | Kotlin, Android |
-| **heart-disease-risk-prediction** | [Android - Jupiter heart disease risk prediction, 2 languages] | [Jupiter, Python, Dart] |
-| **VPN-Store-bot** | [Telegram VPN Store bot - Free to use] | [Python - VPS] |
+| [**heart-disease-risk-prediction**](https://github.com/TahaAbbasi211/heart-disease-risk-prediction) | [Android - Jupiter heart disease risk prediction, 2 languages] | [Jupiter, Python, Dart] |
+| [**VPN-Store-bot**](https://github.com/TahaAbbasi211/VPN-Store-bot) | [Telegram VPN Store bot - Free to use] | [Python - VPS] |
 
 ---
 
