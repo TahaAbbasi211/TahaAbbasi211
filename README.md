@@ -16,7 +16,7 @@
 
 - 🎓 Studying **Biomedical Engineering**
 - 🔬 Currently learning **Data Science & AI**, with a focus on biomedical signals and medical data
-- 🌱 Working on: **[your current project, e.g. ECG arrhythmia classification]**
+- 🌱 Working on: **[Single projects, e.g. ECG arrhythmia classification]**
 - 📫 Reach me by email: **tahaabbasi211@gmail.com**
 
 ---
@@ -58,7 +58,6 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
 
 ---
 
